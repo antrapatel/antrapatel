@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello there! 
+
+I'm Antra (she/her) and I'm a 2nd year Computer Science major at the University of British Columbia. 
