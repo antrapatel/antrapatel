@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **antrapatel/antrapatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there! 
+### Hello there! 👋
 
-I'm Antra (she/her) and I'm a 2nd year Computer Science major at the University of British Columbia. 
+I'm Antra (she/her) and I'm a 2nd year Computer Science major at the University of British Columbia! 
