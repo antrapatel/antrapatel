@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ### Hello there! 👋
 
 I'm Antra (she/her) and I'm a 2nd year Computer Science major at the University of British Columbia! 
+
+I'm currently on co-op doing Web and Graphic Design at the Learning Disabilities Society of Greater Vancouver. 
